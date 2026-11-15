@@ -1,0 +1,558 @@
+{
+  "organisations non gouvernementales françaises ou étrangères qui ont une activité principale caritative ou de service (et non de plaidoyer)": [
+    {
+      "entity": "France Lyme",
+      "phrase": "Selon un sondage de l'association France Lyme envers ses membres, 81 % ont eu une errance médicale et 56 % ne sont pas satisfaits de leur prise en charge, ce que Mme la députée peut d'ailleurs confirmer."
+    },
+    {
+      "entity": "Union des organisations islamiques de France",
+      "phrase": "Une accusation qui a même été confirmé par un ancien cadre de l'Union des organisations islamiques de France (UOIF)."
+    },
+    {
+      "entity": "Quatre Pattes",
+      "phrase": "Mme Sandra Regol attire l'attention de M. le ministre de l'agriculture et de la souveraineté alimentaire sur les transports d'animaux vivants, sur proposition de l'association Quatre Pattes."
+    },
+    {
+      "entity": "Humaine Society International-Europe",
+      "phrase": "Mme Sandra Regol interroge M. le ministre de l'agriculture et de la souveraineté alimentaire sur la révision de la législation européenne sur le bien-être animal sur une proposition de l'association Humaine Society International - Europe."
+    },
+    {
+      "entity": "Transiterra",
+      "phrase": "Mme Sandra Regol appelle l'attention de M. le ministre de l'agriculture et de la souveraineté alimentaire sur les dispositifs permettant d'accompagner les éleveurs à la reconversion et sur les moyens financiers associés sur une proposition de l'association Transiterra."
+    },
+    {
+      "entity": "SPA",
+      "phrase": "Bien au contraire, l'été 2023 a connu un nouveau record du nombre d'abandons, dont le chiffre a atteint 16 000 rien que sur cette période, selon la SPA."
+    },
+    {
+      "entity": "association de protection animale PAZ",
+      "phrase": "Des images tournées en début d'année 2023 et relayées par la presse par l'association de protection animale PAZ avaient révélé que pour chaque représentation, les pythons utilisés par le cabaret Moulin Rouge étaient transportés pendant 1 h 30 dans des petites caisses."
+    },
+    {
+      "entity": "Association pour le développement de l'enseignement de l'allemand en France",
+      "phrase": "La langue allemande peine à attirer les élèves, alors que 16 % des jeunes Français étudiaient l'allemand en 2018, ils ne sont plus que 14,1 % en 2022, selon l'Association pour le développement de l'enseignement de l'allemand en France (ADEAF)."
+    }
+  ],
+  "agences publiques d'expertise en France (hors agences régionales de santé)": [
+    {
+      "entity": "Haute Autorité de santé",
+      "phrase": "Or la décision de l'Haute Autorité de santé (HAS) d'attribuer une ASMR 5 (Amélioration du service médical rendu) à des traitements innovants a constitué un retour en arrière préjudiciable, avec pour conséquence l'arrêt du processus de fixation des prix et l'arrêt de l'accès précoce pourtant précédemment autorisé."
+    },
+    {
+      "entity": "Agence nationale pour la sécurité alimentaire, l'environnement et du travail",
+      "phrase": "Il en est de même pour l'avis de l'Agence nationale pour la sécurité alimentaire, l'environnement et du travail, qui doit précéder le décret."
+    }
+  ],
+  "autorités judiciaires et défenseur des droits en France": [
+    {
+      "entity": "juridiction financière",
+      "phrase": "La juridiction financière relève également que l'aide à la reconversion professionnelle des éleveurs représente moins d'un dix millième des aides de la PAC et juge celle-ci trop faible."
+    },
+    {
+      "entity": "parquet de Carcassonne",
+      "phrase": "Le parquet de Carcassonne estime que les saisies ne sont dévolues qu'aux agents du service vétérinaire de la DDETSPP, dont les horaires d'ouverture sont limités, ce qui est fortement préjudiciable dans certaines interventions où la saisie ne saurait être différée."
+    },
+    {
+      "entity": "parquet de Nîmes",
+      "phrase": "Le 9 juin 2023, le parquet de Nîmes dévoilait qu'une opération « ayant mobilisé plus de 170 gendarmes a permis de démanteler une bande de malfaiteurs soupçonnée d'avoir volé plus de 50 000 pots catalytiques dans plusieurs régions de France pour les exporter principalement vers la Pologne »."
+    }
+  ],
+  "cabinets privés de conseil et consultants français et étrangers": [
+    {
+      "entity": "Boston Consulting Group",
+      "phrase": "C'est le cas par exemple de l'appel fait à BCG - Boston Consulting Group pour constituer un « design system »."
+    },
+    {
+      "entity": "Deloitte",
+      "phrase": "À cette occasion, la France espère jusqu'à 2,4 milliards d'euros de retombées économiques au total, estime une étude Deloitte réalisée pour la Fédération française de rugby. 600 000 visiteurs étrangers sont attendus sur le territoire national, soit 100 000 de plus qu'en 2007."
+    },
+    {
+      "entity": "cabinets privés",
+      "phrase": "Trois cabinets privés ont analysé les procédures de travail au sein de l'Office pour un montant de près de 485 000 euros, ainsi que l'a révélé le rapport de la Commission d'enquête du Sénat sur l'influence croissante des cabinets de conseil privés sur les politiques publiques et ont remis leurs conclusions au directeur général de l'OFPRA dès avril 2022."
+    }
+  ],
+  "chambres, ordres et organisations sectorielles en France (y compris l'expression « réseau consulaire »)": [
+    {
+      "entity": "réseau des chambres de métiers et de l'artisanat",
+      "phrase": "Le réseau des chambres de métiers et de l'artisanat (CMA) indique que si la mesure portée par France compétences est appliquée, la baisse de la prise en charge atteindra même jusqu'à 10 % pour certaines formations touchant pourtant des métiers en tension (restauration, bâtiment travaux publics, agriculture etc.)."
+    },
+    {
+      "entity": "chambres des métiers",
+      "phrase": "Par ailleurs, il n'existe aucune obligation légale obligeant les professionnels du secteur à traiter leurs déchets, seulement une recommandation des chambres des métiers et de l'artisanat des différentes régions."
+    },
+    {
+      "entity": "chambres d'agriculture",
+      "phrase": "Selon certaines chambres d'agriculture, il apparaît que le Gouvernement souhaite modifier les conditions pour voter ou être représenté au sein du collège des anciens. M. le député interroge M. le ministre sur sa potentielle volonté de limiter à six années après le bénéfice de la retraite la possibilité de voter ou d'être élu membre du collège des anciens au sein des chambres d'agriculture."
+    },
+    {
+      "entity": "conseil de l'ordre des médecins",
+      "phrase": "En effet, le nombre de postes a connu une baisse continue, de 2008 à 2013, correspondant, d'après le conseil de l'ordre des médecins, au quart des effectifs."
+    },
+    {
+      "entity": "Conseil national de l'ordre des architectes",
+      "phrase": "Il s'avère que le Conseil national de l'ordre des architectes (CNOA) ainsi que le Syndicat national des aménageurs lotisseurs (SNAL) ont publié au mois de septembre 2016 une préconisation conjointe défendant que la nouvelle obligation de recours à un architecte pour le permis d'aménager soit effective dès 2 000 m²."
+    }
+  ],
+  "chercheurs ou écrits scientifiques indéterminés, français ou étrangers (y compris les expressions « communauté scientifique » et « consensus scientifique »)": [
+    {
+      "entity": "mission de recherche Droit et justice",
+      "phrase": "Malgré la loi de 2016, le rapport « État civil de demain et transidentité » de la mission de recherche Droit et justice pointe plusieurs questions qui demeurent aujourd'hui sans cadre légal : la modification de marqueur de sexe pour les mineurs non-émancipés représentés par leur parents, et l'absence de lien entre sexe à l'état civil et des critères biologiques."
+    },
+    {
+      "entity": "scientifiques",
+      "phrase": "Ainsi, alors que selon les études scientifiques, entre une personne sur mille et deux personnes sur cent sont trans et malgré le début récent d'acceptation par la société de ces parcours de vie, aucune personne trans n'a jamais été élue au niveau départemental, régional, ni national."
+    },
+    {
+      "entity": "médical",
+      "phrase": "À ce jour, aucun rapport médical ni littérature scientifique ne permet de répondre."
+    }
+  ],
+  "collectivités locales, intercommunalités, associations d'élus locaux et élus locaux en France": [
+    {
+      "entity": "association des maires et président d'EPCI du Finistère",
+      "phrase": "Ces poursuites judiciaires ont suscité une vive émotion des élus locaux à commencer par l'association des maires et président d'EPCI du Finistère."
+    },
+    {
+      "entity": "président de la Métropole de Lyon",
+      "phrase": "Le président de la Métropole de Lyon se refuse d'informer les propriétaires des véhicules concernés par les prochaines interdictions de circulation au motif que l'utilisation des données d'identification des propriétaires par l'immatriculation des véhicules serait contraire au RGPD, ces informations étant traitées par le passé par la préfecture de Lyon et désormais centralisées par l'Agence nationale des titres sécurisés (ANTS)."
+    },
+    {
+      "entity": "AMF",
+      "phrase": "Si certaines attentes de l'AMF sont intéressantes, il serait plus judicieux de porter la responsabilité financière des dégâts sur les émeutiers eux-mêmes lorsqu'il y a eu pillage, incendie ou dégradation."
+    },
+    {
+      "entity": "communauté de communes",
+      "phrase": "Suite à la motion votée par le conseil départemental de la Meuse, constatant des problèmes récurrents de recrutement au sein des crèches, la communauté de communes de Damvillers-Spincourt a alerté Mme la députée sur ce sujet."
+    },
+    {
+      "entity": "associations d'élus locaux",
+      "phrase": "Les associations d'élus locaux ont à cet égard formulé différentes propositions visant à mieux soutenir les collectivités territoriales, qui pourraient notamment prendre la forme d'une indexation de la dotation générale de fonctionnement (DGF) sur l'inflation ou d'une revalorisation de la DSIL et la réintroduction des tarifs réglementés afin de limiter la chute des investissements locaux qui représentent chaque année 50 milliards d'euros."
+    }
+  ],
+  "corps d'inspection et Cour des comptes en France (hors inspecteur d'académie et inspecteur du travail)": [
+    {
+      "entity": "inspection générale des affaires sociales",
+      "phrase": "Après le constat d'une méconnaissance réelle des circonstances exactes de la fin de vie posé par l'inspection générale des affaires sociales en 2018, le manque d'indicateurs sur la mise en œuvre de la loi « Claeys-Leonetti » et, plus globalement, sur la fin de vie en France, est aujourd'hui d'une évidence criante."
+    },
+    {
+      "entity": "CGAAER",
+      "phrase": "Dans la réponse qu'il lui avait été faite précédemment, le ministère avait expliqué qu'une nouvelle mission du CGAAER avait été demandée à l'été 2013 afin de dégager des recommandations sur les modalités d'encadrement par l'État de la génétique canine et féline."
+    },
+    {
+      "entity": "Cour des comptes",
+      "phrase": "Dans son dernier rapport sur l'application des lois de financement de la sécurité sociale, la Cour des comptes préconise de consolider le financement du FSV par l'affectation de ressources stables et en rapport avec le niveau de ses charges de façon à assurer son équilibre financier durable."
+    },
+    {
+      "entity": "inspection générale de l'administration",
+      "phrase": "L'inspection générale de l'administration avait en ce sens proposé des assouplissements du décret, dès janvier 2009."
+    }
+  ],
+  "dispositifs participatifs citoyens en France": [
+    {
+      "entity": "consultation publique",
+      "phrase": "Au cours de cette consultation publique, quatre-vingt-neuf observations ont été déposées par divers représentants de la société civile, des États membres de l'UE, des universitaires, du secteur privé et des Nations-unies."
+    },
+    {
+      "entity": "audit citoyen",
+      "phrase": "Il lui demande son avis sur cette proposition du collectif audit citoyen."
+    },
+    {
+      "entity": "consultation citoyenne",
+      "phrase": "En conséquence de quoi, à la lumière des résultats de la consultation citoyenne, il lui demande de préciser quelles sont les pistes envisagées pour permettre aux personnes âgées de pouvoir continuer à vivre à leurs domiciles."
+    }
+  ],
+  "entreprises privées et publiques en France et à l'étranger (hors cabinets privés de conseil et consultants)": [
+    {
+      "entity": "EDF",
+      "phrase": "Électricité de France (EDF) a même délégué 80 pour cent de la gestion de ces centrales à des entreprises privées."
+    },
+    {
+      "entity": "Orange Bank",
+      "phrase": "Tous racontent la même chose : en 2017, suite au rachat par Orange Bank de Groupama Banque, une entreprise qui fonctionnait plutôt bien, sans heurt, depuis des décennies, alors que les dirigeants d'Orange promettaient monts et merveilles, du « disruptif », une banque start-up , c'est la dégringolade à peine quelques années plus tard."
+    },
+    {
+      "entity": "Tyco",
+      "phrase": "Dans l'arrêt Tyco rendu en 2015, la Cour de justice de l'Union européenne a en effet jugé au visa de l'article 2 de la directive n° 2003/88 du 4 novembre 2003 que, lorsque « les travailleurs n'ont pas de lieu de travail fixe ou habituel, constitue du « temps de travail », au sens de cette directive, le temps de déplacement que ces travailleurs consacrent aux déplacements quotidiens entre leur domicile et les sites des premiers et derniers clients désignés par l'employeur » (CJUE, 10 sept. 2015, nº C-266/14, Tyco)."
+    },
+    {
+      "entity": "McCain Europe",
+      "phrase": "Des entreprises comme Clarebout Potatoes (B) ou McCain Europe achètent la majorité des productions de plants élaborés dans la région."
+    },
+    {
+      "entity": "Air-France",
+      "phrase": "Air-France a pourtant annoncé, il y a peu, un bénéfice net de 720 millions d'euros."
+    }
+  ],
+  "gouvernements et administrations étrangers (y compris les collectivités locales et armées étrangères)": [
+    {
+      "entity": "exécutif australien",
+      "phrase": "Des volumes qui pourraient bien augmenter, l'exécutif australien ayant déjà fait part de sa « déception » : il souhaiterait que l'Union européenne lui cède les droits de s'approprier l'AOC de dizaines de fromages et charcuteries européens comme le « roquefort » ou le « gouda »."
+    },
+    {
+      "entity": "ministère de l'intérieur allemand",
+      "phrase": "Le ministère de l'intérieur allemand a ainsi dénoncé la « situation très tendue » à laquelle faisaient face de nombreuses communes allemandes."
+    },
+    {
+      "entity": "agence fédérale allemande pour l'environnement",
+      "phrase": "Il apparaît également que cette valeur ne résulte pas d'études scientifiques, mais qu'elle se réfère à la valeur fixée par l'agence fédérale allemande pour l'environnement."
+    }
+  ],
+  "gouvernement, ministres et cabinets ministériels français (y compris l'expression « Ministre » ; hors l'expression « Ministère »)": [
+    {
+      "entity": "ministre de l'économie",
+      "phrase": "Le ministre de l'économie annonce un plan d'économies de dix milliards d'euros, avec des médicaments non-remboursés, avec une baisse des aides à l'apprentissage et à la formation, avec des budgets rétrécis sur l'université."
+    },
+    {
+      "entity": "M. le ministe",
+      "phrase": "La suppression de cet avantage fiscal, que M. le ministe a annoncée le 19 juin 2023 lors des assises des finances publiques, a suscité l'inquiétude des agriculteurs, en particulier dans les petites exploitations qui subissent déjà de plein fouet les hausses de leurs charges (fournitures, énergie, engrais, alimentation animale...)."
+    },
+    {
+      "entity": "Gouvernement",
+      "phrase": "La feuille de route pour atteindre le plein emploi vient d'être détaillée par le Gouvernement."
+    }
+  ],
+  "inclassable": [
+    {
+      "entity": "Mureaux",
+      "phrase": "À la suite du discours des Mureaux, une nouvelle loi a été mise en place, cette dernière ayant pour but principal de lutter contre le séparatisme."
+    },
+    {
+      "entity": "Canonge",
+      "phrase": "Elle souhaiterait également connaître le profil des individus de nationalité française qui ont été interpellés via les informations du fichier Canonge."
+    },
+    {
+      "entity": "mission",
+      "phrase": "En l'absence de données robustes, la mission souligne qu'elle n'a pas été en mesure d'évaluer précisément l'écart entre l'offre et les besoins en soins palliatifs."
+    }
+  ],
+  "individus, usagers, travailleurs et collectifs non organisés en France et à l'étranger et fréquemment désignés d'après leurs caractéristiques (par exemple : leur métier, leur occupation, leur hobby, ou leur implantation géographique)": [
+    {
+      "entity": "contribuables",
+      "phrase": "De nombreux contribuables propriétaires appelant ou contactant la DGFiP afin d'être bien sûr que leur déclaration était enregistrée."
+    },
+    {
+      "entity": "citoyens",
+      "phrase": "En parallèle, les citoyens et les élus locaux réclament davantage d'informations et de mesures de protection."
+    },
+    {
+      "entity": "habitants de sa circonscription",
+      "phrase": "Tout au long de l'été 2022 des habitants de sa circonscription l'ont alerté sur le manque de granulés de bois pour pouvoir chauffer leur domicile lors de l'hiver à venir. M. le député alerte également le ministre sur l'augmentation du prix des sacs de granulés."
+    },
+    {
+      "entity": "motocyclistes",
+      "phrase": "Les motocyclistes craignent qu'un délai aussi court empêche le déploiement d'une couverture territoriale suffisante de centres de contrôle technique deux-roues."
+    },
+    {
+      "entity": "randonneurs",
+      "phrase": "Néanmoins, des cas d'agressions sont recensés et une forte part des randonneurs sont inquiets de croiser ces chiens."
+    }
+  ],
+  "sondage d'opinion français et étrangers": [
+    {
+      "entity": "Elabe/ BFMTV",
+      "phrase": "Selon un sondage Elabe/ BFMTV / L'Opinion : 45 % des Français estiment que la justice est trop laxiste en matière d'infraction routière."
+    },
+    {
+      "entity": "Odoxa-Dentsu Consulting",
+      "phrase": "Cette décision en plus d'être un scandale démocratique, 82 % des Français souhaitant le jugement et l'exécution des peines en Irak selon une étude Odoxa-Dentsu Consulting du Figaro, pose une réelle question de gestion sécuritaire."
+    },
+    {
+      "entity": "Opinionway",
+      "phrase": "Les habitants des communes qui en usent se déclarent également entièrement satisfaits de cette solution : 85 % des habitants des villes équipées en machines à voter s'y déclaraient favorables, si l'on en croit un sondage Opinionway d'avril 2018."
+    }
+  ],
+  "services ministériels, administrations publiques et fonctionnaires de l'Etat français (y compris les ambassades, les agences régionales de santé, les inspecteurs d'académie et les inspecteurs du travail et y compris l'expression « Ministère »)": [
+    {
+      "entity": "ambassade",
+      "phrase": "Le 26 juillet 2022, l'ambassade publiait déjà un communiqué alertant les demandeurs d'un délai de traitement plus long en raison d'une augmentation de 250 % des demandes à laquelle les services consulaires faisaient face."
+    },
+    {
+      "entity": "SDIS 63",
+      "phrase": "Bien qu'en mesure, depuis le 28 octobre 2022 par un accord validé par M. le directeur général de l'agence régionale de santé Auvergne-Rhône-Alpes, de reporter ou de refuser cette carence selon sa capacité opérationnelle constatée lors de la demande d'une mission, le SDIS 63 ne constate pas d'évolutions pour les territoires les plus ruraux du département, où sont principalement engagés des pompiers volontaires."
+    },
+    {
+      "entity": "services de l'État",
+      "phrase": "Les services de l'État, le réseau consulaire et les organisations professionnelles ont commencé à évaluer l'ampleur des dégâts et du préjudice subi par les producteurs de cerises du sud-est."
+    },
+    {
+      "entity": "académie de Dijon",
+      "phrase": "Elles sont justifiées par l'académie de Dijon par la baisse démographique constatée sur le département (moins 723 élèves dans le premier degré)."
+    },
+    {
+      "entity": "ministère chargé du tourisme",
+      "phrase": "En décembre 2021, le ministère chargé du tourisme avait annoncé la préparation d'un nouveau projet de décret au niveau interministériel pour adapter la réglementation et mieux prendre en compte les préoccupations des professionnels du tourisme."
+    },
+    {
+      "entity": "ministère",
+      "phrase": "Celles-ci avaient d'ailleurs été dénoncées publiquement par le ministère lors du scrutin 2021."
+    },
+    {
+      "entity": "interministérielle à la sécurité routière",
+      "phrase": "Cette évaluation pourrait être conduite pendant quatre ans à compter de la mise en place du contrôle technique pour les deux-roues et être placée sous l'égide de la délégation interministérielle à la sécurité routière (DISR), avec une collecte de données organisée par l'observatoire national interministériel de la sécurité routière (ONISR)."
+    }
+  ],
+  "médias traditionnels français et étrangers": [
+    {
+      "entity": "journal des marches et opérations",
+      "phrase": "Ils précisent en outre, comme souligné par ledit journal des marches et opérations, que l'intervention a eu lieu « dans une ambiance opérationnelle », que le régime de travail était particulièrement éprouvant, que les malades étaient nombreux, que la composante Terre apportait la sécurité des infrastructures et éléments aériens et assurait également leur manutention."
+    },
+    {
+      "entity": "Politico",
+      "phrase": "Selon les calculs de Politico , 215 millions de doses de vaccins contre la covid ont été jetées par les différents pays de l'Union européenne, pour une valeur estimée à plus de 4 milliards d'euros."
+    },
+    {
+      "entity": "Marianne",
+      "phrase": "C'est le cas par exemple lorsqu'en 2021, l'université de Grenoble a versé 10 000 euros à l'association « Contre courant » dans le cadre de l'organisation du « Mois décolonial » comme l'a révélé une enquête de Marianne ."
+    },
+    {
+      "entity": "Journal du Palais",
+      "phrase": "Dans un récent article du Journal du Palais , M. le ministre évoquait la possible régulation des coupes rases dans le Morvan."
+    },
+    {
+      "entity": "Europe 1",
+      "phrase": "Imagine-t-on la ministre de la culture rester muette si un média comme CNEWS ou Europe 1 avait, dans une chronique ou un reportage, posé la question honteuse : « Coupe du monde de football 2022 : pourquoi l'équipe de France est-elle si noire ? »."
+    },
+    {
+      "entity": "Radio France",
+      "phrase": "Ce silence est d'autant plus inquiétant qu'il y a peu, une enquête de Radio France et du journal Le Monde révélait des traitements illicites appliqués aux eaux en bouteilles par plusieurs industriels du secteur agroalimentaire dont Nestlé Water et le Groupe Alma."
+    },
+    {
+      "entity": "journaliste",
+      "phrase": "En témoignent les propos de la journaliste, Mme Martelet, qui l'a rencontré en mai 2019 : - « Hussam s'est investi avec moi et d'autres journalistes à fond dans des enquêtes journalistiques pour documenter toujours et encore les crimes de Daech, leurs agissements depuis la chute de Baghouz et ce sans aucune protection ». - « C'est grâce à lui que je localise l'appartement de Jean-Michel Clain et surtout le bureau des étrangers où nous découvrons des documents de Daech."
+    },
+    {
+      "entity": "Le Monde",
+      "phrase": "Selon une extrapolation, à l'échelle nationale, des données du registre du centre d'expertise mort subite de l'hôpital européen Georges-Pompidou (HEGP) et publiée par le journal « Le Monde » dans un article du 28 août 2023, les arrêts du cœur causent environ 40 000 décès par an."
+    }
+  ],
+  "organismes de recherche français et étrangers": [
+    {
+      "entity": "Cirad",
+      "phrase": "Par ailleurs, l'agriculture ultramarine dispose, comme l'a démontrée l'étude « 4 pour 1000 », réalisée par l'Institut national de recherche pour l'agriculture, l'alimentation et l'environnement (Inrae) et le Centre de coopération internationale en recherche agronomique pour le développement (Cirad), d'importantes potentialités en matière de stockage de carbone."
+    },
+    {
+      "entity": "national d'histoire naturelle",
+      "phrase": "Le Muséum national d'histoire naturelle conserve 67 millions d'objets issus des sciences naturelles et humaines, soit plus de la moitié des collections des musées de France."
+    },
+    {
+      "entity": "Institut Pasteur",
+      "phrase": "L'Institut Pasteur prévoit que la BPCO sera la quatrième cause de mortalité en France d'ici 2030."
+    }
+  ],
+  "organisations internationales (y compris européennes)": [
+    {
+      "entity": "Comité international olympique",
+      "phrase": "Fin 2021, le Comité international olympique (CIO) a renoncé à établir des directives uniformes quant aux critères de participation des sportifs intersexes et transgenres, laissant la main aux fédérations internationales."
+    },
+    {
+      "entity": "FMI",
+      "phrase": "En effet, 90 % des échanges commerciaux sont réalisés par voie maritime, 40 % de la richesse globale transite dans cet espace et le Fonds monétaire international (FMI) prévoit en 2040 que 50 % du produit intérieur brut (PIB) mondial provienne de l'indopacifique."
+    },
+    {
+      "entity": "Commission européenne",
+      "phrase": "Et après avoir conclu, notamment, un accord avec le Mexique, le Chili, la Nouvelle-Zélande, la Commission européenne négocie actuellement avec l'Australie !"
+    },
+    {
+      "entity": "Fonds monétaire international",
+      "phrase": "En effet, 90 % des échanges commerciaux sont réalisés par voie maritime, 40 % de la richesse globale transite dans cet espace et le Fonds monétaire international (FMI) prévoit en 2040 que 50 % du produit intérieur brut (PIB) mondial provienne de l'indopacifique."
+    },
+    {
+      "entity": "Conseil de l'Europe",
+      "phrase": "Dans un rapport présenté en 2015, le Conseil de l'Europe affirme que 1,7 % des naissances humaines chaque année concernent des enfants intersexes."
+    }
+  ],
+  "parlement français, groupes parlementaires, commissions parlementaires et leurs rapports": [
+    {
+      "entity": "commission d'enquête du Sénat",
+      "phrase": "Un rapport de la commission d'enquête du Sénat sur la situation de l'hôpital et le système de santé en France de mars 2022 observe en ce sens que « l'investissement hospitalier a été divisé par deux en dix ans tout en restant confronté à un problème structurel de financement se soldant souvent par de l'endettement »."
+    },
+    {
+      "entity": "rapporteurs généraux du budget",
+      "phrase": "Les différents rapporteurs généraux du budget de la commission des finances ou encore les ministres en charge des comptes publics ont confirmé, au banc, que ce type d'activité n'était pas exclu du bénéfice du CIIC."
+    },
+    {
+      "entity": "rapporteure",
+      "phrase": "Dans ses conclusions publiées le 7 juin 2023, la rapporteure a de ce fait pu déplorer que 14 textes réglementaires soient encore attendus pour assurer la pleine application de la loi."
+    },
+    {
+      "entity": "rapport d'information",
+      "phrase": "De surcroît, ce rapport d'information soulève les limites de la nouvelle voie de recrutement « chaire de professeur junior » (CPJ), avec notamment une disparité d'engagement dans le dispositif selon les établissements et l'absence de garantie des libertés académiques pour le titulaire d'une CPJ."
+    },
+    {
+      "entity": "avis sénatorial n° 826",
+      "phrase": "Mme La députée interpelle Mme la ministre sur le fait que, comme cela est rappelé dans l'avis sénatorial n° 826 déposé par M. Bruno Belin, les délais et la procédure législative utilisée pour autoriser un tel chantier n'ont pas permis une étude environnementale approfondie, pour un projet qui n'est par ailleurs pas soumis à la régulation environnementale liée aux usines dangereuses."
+    },
+    {
+      "entity": "sénateurs",
+      "phrase": "Le choix de l'hébergeur a été critiqué, par de multiples acteurs (associations de patients, Caisse nationale d'assurance maladie (CNAM), sénateurs, etc.) et ce pour deux raisons."
+    },
+    {
+      "entity": "M. le député",
+      "phrase": "Lors de ses échanges avec les divers services de santé mentale de sa circonscription, M. le député a appris que la préfecture avait demandé, par oral, à ces hôpitaux et centres de soins, de ne pas délivrer de permis de sortie à leurs patients hospitalisés durant la durée des jeux Olympiques."
+    }
+  ],
+  "états-majors et militants des partis politiques français (hors parlementaires et élus locaux)": [
+    {
+      "entity": "partis politiques",
+      "phrase": "Syndicats, partis politiques, associations, collectifs et organisations de jeunesse ont unanimement condamné cette « nouvelle étape de la répression »."
+    },
+    {
+      "entity": "France insoumise",
+      "phrase": "La France insoumise propose notamment l'inscription du droit au logement dans la Constitution, l'encadrement des loyers à la baisse autour du loyer médian dans les zones « normales » et avec une décote de 20 % dans les zones en tension ou encore la réorientation vers le logement public des subventions qui entretiennent la spéculation immobilière."
+    },
+    {
+      "entity": "Rassemblement National",
+      "phrase": "Face à cette situation et afin de ne pas laisser mourir les petites et moyennes entreprises, il lui demande explicitement de sortir des règles européennes de fixation des prix de l'électricité, à l'instar du Portugal et de l'Espagne et comme le propose le Rassemblement National depuis plusieurs mois."
+    }
+  ],
+  "président de la République française": [
+    {
+      "entity": "chef de l'État",
+      "phrase": "En prolongement des demandes antérieures portant sur la nécessité stratégique et opérationnelle d'aménager une base navale à Mayotte, elle rappelle l'importance que Mayotte puisse accueillir un POM. Le chef de l'État lors de ses vœux aux armées de 2023 à Mont-de-Marsan, a réitéré l'engouement pour les forces armées, afin de préserver la souveraineté nationale et son influence réelle."
+    },
+    {
+      "entity": "de la République",
+      "phrase": "Le Président de la République détient ainsi le record du nombre de dissolutions prononcées sous la Ve République."
+    }
+  ],
+  "revues et journaux scientifiques français et étrangers": [
+    {
+      "entity": "The Lancet",
+      "phrase": "Le dimanche 27 août 2023, un groupe international d'experts a publié, dans la revue « The Lancet », une série de recommandations afin de prévenir les décès après un arrêt cardiaque soudain."
+    },
+    {
+      "entity": "revue scientifique Nature",
+      "phrase": "Or le site de la revue scientifique Nature vient d'annoncer, en date du 8 mars 2023, que la codirection franco-chinoise de l'Institut Pasteur de Shanghai prenait fin."
+    },
+    {
+      "entity": "International Journal of environmental research and public health",
+      "phrase": "Les élèves se retenant de satisfaire leurs besoins durant plusieurs heures s'exposent à des risques sanitaires graves et peuvent développer des maladies infectieuses, gastro-intestinales et psychologiques, selon une étude scientifique publiée le 3 août 2012 dans l' International Journal of environmental research and public health ."
+    }
+  ],
+  "contenus et utilisateurs de réseaux sociaux (y compris l'expression « réseaux sociaux »)": [
+    {
+      "entity": "réseaux sociaux professionnels",
+      "phrase": "Les réseaux sociaux professionnels se sont d'autant plus émus de cette situation que des liens sont clairement identifiés entre certains des dirigeants d'IN Groupe, soit parce qu'ils ont été consultants au sein de certaines de ces agences, McKinsey par exemple, soit parce qu'ils sont au centre d'une constellation de sociétés entretenant des liens commerciaux et d'affaires avec certains de ces cabinets."
+    },
+    {
+      "entity": "réseaux sociaux",
+      "phrase": "Au cours des dernières semaines, plusieurs témoignages diffusés dans la presse et sur les réseaux sociaux ont fait état de la présence de l'insecte dans des salles de cinéma parisiens et dans des trains."
+    },
+    {
+      "entity": "TikTok",
+      "phrase": "Tout est parti d'une vidéo diffusée sur le réseau social TikTok dans laquelle une lycéenne de 17 ans se dit discriminée sur sa tenue, une abaya ."
+    }
+  ],
+  "sociétés savantes et académies en France et à l'international (hors le terme « académie » lorsqu'il désigne une circonscription administrative éducative déconcentrée)": [
+    {
+      "entity": "Société française d'accompagnement des soins palliatif",
+      "phrase": "En effet, selon la Société française d'accompagnement des soins palliatif, le nombre de départements dépourvus d'unités de soins palliatifs s'élèverait aujourd'hui à vingt-six."
+    },
+    {
+      "entity": "Académie de médecine",
+      "phrase": "Le 25 février 2023, les praticiens de l'Académie de médecine, dans un communiqué portant sur « la médecine face à la transidentité de genre chez les enfants et les adolescents », appellent à « une grande prudence médicale » à l'égard des mineurs."
+    },
+    {
+      "entity": "Société française neurovasculaire",
+      "phrase": "Alors que la Société française neurovasculaire affirme qu'une personne sur six aura un AVC dans sa vie, plus de 31 % de la population déclarait en 2013 ne pas savoir auprès de qui se diriger en cas d'AVC."
+    },
+    {
+      "entity": "Académie française",
+      "phrase": "Le 26 octobre 2017, l'Académie française a adopté à l'unanimité une déclaration contre l'usage de l'écriture inclusive, stipulant que « devant cette aberration inclusive, la langue française se trouve désormais en péril mortel »."
+    },
+    {
+      "entity": "SFNR",
+      "phrase": "La Société française de neuroradiologie (SFNR) et la Société française neurovasculaire (SFNV) dénoncent le fait qu'« une fois de plus, l'hôpital public et ses acteurs auront à supporter le poids financier des techniques innovantes porteuses d'améliorations significatives du service rendu à nos compatriotes »."
+    },
+    {
+      "entity": "Société française d'études des migraines et céphalées",
+      "phrase": "Cette demande de prise en charge est pourtant portée par plusieurs associations dont « La voix des migraineux » et la « Société française d'études des migraines et céphalées ». M. le député demande donc à M. le ministre pourquoi, en dépit d'un besoin médical non couvert et reconnu officiellement par la commission de la transparence, le Gouvernement refuse le remboursement des anti-CGRP."
+    },
+    {
+      "entity": "Société française de l'énergie",
+      "phrase": "Au cours de recherches relatives au gaz de couche menées par la Société française de l'énergie, en liaison avec les directeurs de recherche du laboratoire GeoRessources de Nancy, un gisement d'hydrogène blanc a été identifié, parmi les plus importants au monde."
+    },
+    {
+      "entity": "SFMU",
+      "phrase": "On touche à l'urgence vitale, il y a une mise en danger de la santé des Français. », selon Marc Noizet, président SAMU-Urgences de France ; « Malheureusement, actuellement, nous ne misons plus sur la qualité des soins et la sécurité en pâtit », selon Agnès Ricard-Hibon, porte-parole de la Société française de médecine d'urgence (SFMU) et cheffe de Service du SAMU-SMUR-SAU 95 ; « Même si je dois en perdre mon poste, j'en peux plus, je ne peux plus me taire."
+    }
+  ],
+  "syndicats du monde du travail et organisations professionnelles en France (y compris l'expression « profession »)": [
+    {
+      "entity": "Solidaires Finances Publiques",
+      "phrase": "Le syndicat majoritaire à la direction générale des finances publiques (DGFiP), Solidaires Finances Publiques, dénonce, dans une lettre au directeur général des finances publiques, un « refus de toute écoute des agents et des représentants du personnel [et un] dogmatisme [...] en total décalage avec les besoins et attentes du public »."
+    },
+    {
+      "entity": "profession",
+      "phrase": "En effet, depuis quelques années, cette profession exprime son désarroi face au manque criant de moyens accordés, aux locaux inadaptés, aux logiciels obsolètes, au manque de personnel qui les conduit à effectuer des remplacements au gré des besoins."
+    },
+    {
+      "entity": "organisations professionnelles",
+      "phrase": "Les services de l'État, le réseau consulaire et les organisations professionnelles ont commencé à évaluer l'ampleur des dégâts et du préjudice subi par les producteurs de cerises du sud-est."
+    },
+    {
+      "entity": "CAPEB",
+      "phrase": "La Confédération de l'artisanat et des petites entreprises du bâtiment (CAPEB) de l'Eure, qui représente principalement les TPE et PME, a récemment contacté Mme la députée et a formulé un certain nombre de problématiques concernant les règles actuelles de la représentativité."
+    },
+    {
+      "entity": "CGT travail, emploi, formation professionnelle",
+      "phrase": "Le traitement judiciaire des accidents du travail est « un naufrage » selon la CGT travail, emploi, formation professionnelle (TEFP)."
+    },
+    {
+      "entity": "Syndicat de la magistrature",
+      "phrase": "Saisi en 2021 par plusieurs associations et syndicats, parmi lesquels la CGT, la Ligue des droits de l'Homme, le Syndicat de la magistrature ou le Syndicat national des journalistes, le Conseil d'État avait interdit cette technique, considérant qu'elle était susceptible d'affecter significativement la liberté de manifester et que rien ne garantissait que son utilisation soit adaptée, nécessaire et proportionnée (décision n° 444849)."
+    },
+    {
+      "entity": "SNEP FSU",
+      "phrase": "Le SNEP FSU l'accuse même d'avoir « dépensé sans compter » jusqu'à « vider les caisses »."
+    },
+    {
+      "entity": "Samu-Urgences de France",
+      "phrase": "Et M. le ministre le sait très bien, lui qui est l'ancien président du syndicat « Samu-Urgences de France »."
+    }
+  ],
+  "think tanks français et internationaux et organisations non gouvernementales qui ont une activité principale de plaidoyer en France ou à l'étranger": [
+    {
+      "entity": "Oxfam",
+      "phrase": "Le taux d'imposition global est régressif, passant de 54 % pour les 10 % les plus riches (Oxfam), à 46 % pour les 0,1 % les plus riches, et 26 % pour les milliardaires."
+    },
+    {
+      "entity": "Thomas More",
+      "phrase": "Mme Sophie Blanc alerte Mme la ministre de la culture sur le respect des obligations légales d'impartialité et de pluralisme au sein de l'audiovisuel public, suite aux révélations édifiantes du rapport de l'institut Thomas More."
+    },
+    {
+      "entity": "Fondapol",
+      "phrase": "L'urgence montre pourtant qu'il faut agir rapidement avec un projet ferme alors que la France est le pays le plus permissif de l'Union européenne « attirant des personnes qui ne parviendront pas à s'intégrer » comme le conclut la récente étude de la Fondapol."
+    },
+    {
+      "entity": "Heinrich Böll",
+      "phrase": "Les « fondations politiques » allemandes comme la fondation Heinrich Böll sont financées par l'état allemand."
+    },
+    {
+      "entity": "Institut La Boétie",
+      "phrase": "Ainsi, une récente note de juillet 2023 de l'Institut La Boétie apprend que les profits du secteur agroalimentaire ont augmenté de 132 % sur un an et que cette hausse des profits bruts est responsable de 70 % de la hausse des prix au premier trimestre 2023."
+    }
+  ],
+  "universités françaises et étrangères publiques et privées": [
+    {
+      "entity": "université Lyon III",
+      "phrase": "Jacques Bichot, économiste à l'université Lyon III, avait tenté de chiffrer le coût total de la délinquance."
+    },
+    {
+      "entity": "université du Texas",
+      "phrase": "D'autres études récentes, conduites par des chercheurs du département biologie intégrative de l'université du Texas, ont montré que le glyphosate était susceptible d'augmenter la mortalité des abeilles en agissant sur leur flore intestinale."
+    },
+    {
+      "entity": "université Paris-Nanterre",
+      "phrase": "Les conséquences sont éloquentes : 10 % d'entre eux déclarent avoir renoncé à consulter un médecin pour des raisons financières, 12 % affirment ne pas manger à leur faim pour les mêmes motifs et 25 % rencontrent de grandes difficultés financières de logement. (Enquête conditions de vie étudiantes, université Paris-Nanterre, printemps 2022) Par conséquent, certains étudiants acceptent des emplois de près de 35 heures de travail hebdomadaire, afin de satisfaire à leurs besoins les plus essentiels : s'enclenche alors un cercle vicieux où l'étudiant doit travailler pour étudier, alors même que son emploi l'empêche de le faire."
+    },
+    {
+      "entity": "École de guerre économique",
+      "phrase": "Un avantage compétitif qui heurte l'Allemagne qui s'est donnée pour mission de saper l'industrie nucléaire française par tous les moyens si l'on croit les conclusions du dernier rapport de l'École de guerre économique."
+    },
+    {
+      "entity": "Centre de recherche interuniversitaire sur la formation et la professionnalisation",
+      "phrase": "Une étude réalisée par le Centre de recherche interuniversitaire sur la formation et la professionnalisation (CRIFPE) a révélé que l'utilisation intensive des smartphones pendant les cours était associée à de moins bonnes performances scolaires (source : CRIFPE, 2018)."
+    }
+  ]
+}

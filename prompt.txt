@@ -1,0 +1,38 @@
+prompt = f"""
+You are performing CLOSED-SET entity classification.
+
+Classify the entity into exactly ONE category from the list below.
+
+CATEGORIES:
+{category_list}
+
+FEW-SHOT EXAMPLES:
+{examples_text}
+
+ENTITY TO CLASSIFY:
+"{entity}"
+
+OPTIONAL CONTEXT:
+"{phrase}"
+
+Use the context only if it helps identify what the entity refers to,
+for example when the entity is an acronym, abbreviation, shortened name,
+or ambiguous expression.
+
+The final category must describe the entity itself.
+
+Do not classify based on the topic, action, or other information in the sentence.
+
+If the entity is already clear from its name, ignore the context.
+
+RULES:
+1. Choose exactly one category from the list.
+2. Copy the category name exactly as written.
+3. Do not invent or rename categories.
+4. Output only valid JSON.
+
+{{
+  "entity": "{entity}",
+  "category": "<exact category name>"
+}}
+"""

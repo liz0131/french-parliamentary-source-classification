@@ -1,0 +1,12 @@
+# Python & macOS
+__pycache__/
+.DS_Store
+
+# Data & outputs (not public)
+data/
+outputs/
+predictions*/
+
+# Model weights
+*.pt
+*.safetensors
